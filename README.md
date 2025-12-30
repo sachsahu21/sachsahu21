@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Currently Working On<br><br>Data Engineering Manager at Ministry of Health, Singapore (via Synapxe)<br><br>Leading large-scale healthcare data transformation initiatives handling 1TB+ datasets<br><br>Designing and automating secure, scalable data pipelines and cloud infrastructure<br><br>Building APIs and data integration platforms for cross-agency healthcare data access (OMOP)<br><br>Driving data governance, documentation, and knowledge-sharing across distributed teams<br><br>Supporting national initiatives in precision medicine and genomic data integration<br><br>👯 I’m Looking to Collaborate On<br><br>Healthcare data platforms and interoperability solutions (OMOP, APIs)<br><br>Large-scale data engineering and modernization programs<br><br>Government and enterprise data transformation initiatives<br><br>Data governance, standardization, and metadata management<br><br>Analytics platforms serving multiple teams, agencies, or markets<br><br>🤝 Looking to Help With<br><br>Architecting scalable data pipelines, data lakes, and analytics platforms<br><br>Cloud-native data solutions (GCP, BigQuery, APIs)<br><br>Power BI dashboards for executive, finance, and enterprise reporting<br><br>Fraud, risk, finance, and marketing analytics use cases<br><br>Legacy system migration to modern data platforms<br><br>Translating business requirements into end-to-end data products<br><br>🌱 Currently Learning<br><br>Advanced healthcare data standards and interoperability frameworks<br><br>Secure and scalable API design for regulated data environments<br><br>Modern data governance and data catalog best practices<br><br>Advanced analytics applications in genomics and precision medicine<br><br>Leadership and strategy at the intersection of data, product, and public policy<br><br>💬 Ask Me About<br><br>Data Engineering & Architecture<br><br>Healthcare and government data platforms<br><br>Cloud data solutions (GCP, BigQuery)<br><br>Power BI and enterprise analytics<br><br>Fraud detection and risk analytics<br><br>Data product management and system migrations<br><br>Stakeholder management and cross-functional leadership<br><br>⚡ Fun Fact<br><br>Badminton enthusiast, long-distance cyclist who has completed ~160 km around Singapore, and an all-round sports enthusiast.
 
-<!--
-**sachsahu21/sachsahu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinsahu1) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sachsahu21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sachsahu21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachsahu21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sachsahu21&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
